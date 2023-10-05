@@ -1,40 +1,7 @@
 # horisean-challenge
 
-REMAINING TASKS BEFORE SUBMITTING TASK TODAY!!!
+Insight into the challenge:
+The horisean-challenge was my first weekly assignment as part of this 6 month Coding course. For this weeks challenge we were given an On-the-job ticket which means we were given starter code in a folder called Develop, which we then had to modify or refactor as part of the challenge. The horisean-challenge was created with one very important aspect of web development in mind whioch is, accessebility. 
 
-### Technical Acceptance Criteria: 40%
-
-  <!-- * Application's links all function correctly. COMPLETE -->
-
-  <!-- * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. COMPLETE -->
-
-  <!-- * Application's CSS file is properly commented. COMPLETE -->
-
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-<!-- * GitHub repository contains application code. COMPLETE -->
-
-### Application Quality: 15%
-
-<!-- * Application resembles mock-up provided in the Challenge instructions (at least 90%). COMPLETE -->
-
-
-### Repository Quality: 13%
-
-<!-- * Repository has a unique name. COMPLETE -->
-
-<!-- * Repository follows best practices for file structure and naming conventions. COMPLETE -->
-
-<!-- * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. COMPLETE -->
-
-<!-- * Repository contains multiple descriptive commit messages. COMPLETE -->
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+README file with description, screenshot, and link to deployed application.
 

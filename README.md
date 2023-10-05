@@ -8,7 +8,7 @@ REMAINING TASKS BEFORE SUBMITTING TASK TODAY!!!
 
   <!-- * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. COMPLETE -->
 
-  * Application's CSS file is properly commented. 
+  <!-- * Application's CSS file is properly commented. COMPLETE -->
 
 
 ### Deployment: 32%
@@ -30,9 +30,9 @@ REMAINING TASKS BEFORE SUBMITTING TASK TODAY!!!
 
 <!-- * Repository has a unique name. COMPLETE -->
 
-* Repository follows best practices for file structure and naming conventions.
+<!-- * Repository follows best practices for file structure and naming conventions. COMPLETE -->
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+<!-- * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. COMPLETE -->
 
 <!-- * Repository contains multiple descriptive commit messages. COMPLETE -->
 
